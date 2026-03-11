@@ -1,4 +1,4 @@
-const CACHE = 'charlie-chitty-v1';
+const CACHE = 'charlie-chitty-v2';
 const ASSETS = [
   './',
   './charlie-chitty-card-collector.html',
